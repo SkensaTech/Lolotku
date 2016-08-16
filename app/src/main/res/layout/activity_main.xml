@@ -12,11 +12,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Aku suka PEMPEK!"
+        android:text="Aku suka asdasdasd!"
         android:id="@+id/lolot"/>
 
     <TextView
-        android:layout_below="@+id/qqqqqqqqqqqqq"
+        android:layout_below="@+id/lolot"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
