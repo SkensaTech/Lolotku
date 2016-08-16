@@ -14,4 +14,11 @@
         android:layout_height="wrap_content"
         android:text="Hello World!"
         android:id="@+id/idBoost"/>
+
+    <TextView
+        android:layout_below="@+id/idBoost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:id="@+id/asd"/>
 </RelativeLayout>
