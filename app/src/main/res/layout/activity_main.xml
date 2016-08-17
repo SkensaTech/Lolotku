@@ -12,7 +12,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Aku suka LOLOT!"
+        android:text="Aku suka Bismillah!"
         android:id="@+id/lolot"/>
 
     <TextView
